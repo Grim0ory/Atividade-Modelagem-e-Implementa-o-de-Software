@@ -12,7 +12,7 @@ Neste semestre estou fazendo duas disciplinas eletivas:
 2. Processos de Software
 
 Link para o site da Universidade onde estudo:
-.[UFLA](https://www.ufla.br)
+* [UFLA](https://www.ufla.br)
 
 Uma imagem da Universidade:
 ![Imagem da UFLA](https://i.ytimg.com/vi/L6x_4l8YkCs/maxresdefault.jpg)
