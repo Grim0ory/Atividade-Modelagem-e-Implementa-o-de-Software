@@ -14,5 +14,8 @@ Neste semestre estou fazendo duas disciplinas eletivas:
 Link para o site da Universidade onde estudo:
 * [UFLA](https://www.ufla.br)
 
+Link do github para você criar uma conta também, se ainda não tiver:
+* [GitHub](https://github.com)
+
 Uma imagem da Universidade:
 ![Imagem da UFLA](https://i.ytimg.com/vi/L6x_4l8YkCs/maxresdefault.jpg)
